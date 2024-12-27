@@ -1,10 +1,15 @@
 # codtch-intership-task1
 
 Name: Namrata
+
 Company: CODTECH IT SOLUTION
+
 ID:CT08DS39
+
 DOMAIN: Cloud Computing 
+
 Duration:Nov to dec 2024
+
 Mentor:Neela Santhosh Kumar
 
 
